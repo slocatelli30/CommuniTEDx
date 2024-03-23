@@ -4,7 +4,7 @@ Descrizione:
 Piattaforma di raccolta e riproduzione video "topicizzati" prodotti da "guru" di ogni settore
 
 Funzioni:  
-	- amici 				un utente può avere uno o più amici
+	- amici 			un utente può avere uno o più amici
 	- filtri di ricerca		cercare dei video in base a: titolo (o parola contenuta nel titolo), data, relatore, topic, ...
 	- login/logout
 	- messaggistica			messaggistica tra un utente e un altro. Essi si possono scambiare solamente stringhe di testo predefinite (tipo gioco dama)
