@@ -1,0 +1,21 @@
+Nome: CommuniTEDx
+
+Descrizione:
+Applicazione mobile per l'intrattenimento e la pubblicazione di video TEDx
+
+Potenziali utenti e stakeholder:
+Studenti delle scuole medie e superiori
+Universitari
+Professori, docenti e insegnanti
+Ricercatori, ingegneri e scienziati
+Fisici e chimici
+Uomini e donne che hanno a cuore la scienza e la cultura
+
+Funzioni:  
+	- amicizia			un utente può avere uno o più amici
+	- filtraggio e ricerca		cercare dei video in base a: titolo (o parola contenuta nel titolo), data, relatore, topic, ...
+	- login/logout
+	- messaggistica			messaggistica tra un utente e un altro. Essi si possono scambiare solamente stringhe di testo predefinite (tipo gioco dama)
+	- playlist			l'utente può creare, ma modificare ed eliminare, playlist in cui salvare uno o più video
+	- suggerimenti			i video suggeriti sono il risultato di una selezione (parziale o totale) dei video "liked" (piaciuti) degli amici dell'utente
+	- upload			i video non possono essere caricati da chiunque ma esclusivamente da profili verificati
