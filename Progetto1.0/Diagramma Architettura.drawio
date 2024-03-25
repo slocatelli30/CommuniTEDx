@@ -1,0 +1,123 @@
+<mxfile modified="2024-03-24T17:16:09.669Z" host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YLDGYTx1UbJXoJ4vi2Mj" version="24.0.4" type="device">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-9" value="CSV File&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" parent="1" vertex="1">
+          <mxGeometry x="308.75" y="520" width="59" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-10" value="Amazon S3 Data Lake" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="330" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-11" value="AWS Glue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.glue;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="327" width="82.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-12" value="MongoDB&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" parent="1" vertex="1">
+          <mxGeometry x="710" y="333.4" width="41.2" height="86.2" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-13" value="Lambda Functions&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="431" y="120" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-14" value="Cognito&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="860" y="109.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-15" value="API Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="109.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-16" value="GitHub Repository&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="154.5" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="898" y="340" as="sourcePoint" />
+            <mxPoint x="898" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="470" as="sourcePoint" />
+            <mxPoint x="900" y="431.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="375.94" as="sourcePoint" />
+            <mxPoint x="700" y="375.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="375.94" as="sourcePoint" />
+            <mxPoint x="480" y="375.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337.69" y="510" as="sourcePoint" />
+            <mxPoint x="337.69" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="375.94" as="sourcePoint" />
+            <mxPoint x="870" y="375.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178.94" y="370" as="sourcePoint" />
+            <mxPoint x="178.94" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204.5" y="220" as="sourcePoint" />
+            <mxPoint x="254.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="160" as="sourcePoint" />
+            <mxPoint x="740" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-37" value="Code Pipeline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codepipeline;fillColor=#759C3E;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="115.5" width="67.5" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331" y="155.44" as="sourcePoint" />
+            <mxPoint x="420" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;User" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="878.25" y="480" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cU3ofpsFrIurwjlaOCnt-42" value="Account creation&amp;nbsp;&lt;div&gt;and Login / Logout&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="913.25" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJwU-0hy2PE7shxt-ZFV-4" value="App Mobile" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="878.25" y="345" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="VHS4mWMEjEnqUpqEWqKa-1" value="Source Code" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="155.75" y="376" width="47.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
