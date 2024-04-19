@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 -> cercate di migliorare la presentazione della vostra esperienza utente. Siete sicuri del target? Aggiungete nel caso dei frame (con figma)
 -> Come gestite la community? Con che servizi? Fate un approfondimento su AWS Cognito o altri servizi di autenticazione (e.g. Auth0?)
+=======
+-> cercate di migliorare la presentazione della vostra esperienza utente. Siete sicuri del target? Aggiungete nel caso dei frame (con figma)
+-> Come gestite la community? Con che servizi? Fate un approfondimento su AWS Cognito o altri servizi di autenticazione (e.g. Auth0?)
+>>>>>>> 2fd65dfd4b7f082d6cadbe8ab05a48da6aff6b9f
 -> Che dati vi servono in aggiunta a quelli di TEDx?
