@@ -1,8 +1,7 @@
-<<<<<<< HEAD
--> cercate di migliorare la presentazione della vostra esperienza utente. Siete sicuri del target? Aggiungete nel caso dei frame (con figma)
--> Come gestite la community? Con che servizi? Fate un approfondimento su AWS Cognito o altri servizi di autenticazione (e.g. Auth0?)
-=======
--> cercate di migliorare la presentazione della vostra esperienza utente. Siete sicuri del target? Aggiungete nel caso dei frame (con figma)
--> Come gestite la community? Con che servizi? Fate un approfondimento su AWS Cognito o altri servizi di autenticazione (e.g. Auth0?)
->>>>>>> 2fd65dfd4b7f082d6cadbe8ab05a48da6aff6b9f
--> Che dati vi servono in aggiunta a quelli di TEDx?
+-> cercate di migliorare la presentazione della vostra esperienza utente. Siete sicuri del target? Aggiungete nel caso dei frame (con figma)(1)
+-> Come gestite la community? Con che servizi? Fate un approfondimento su AWS Cognito o altri servizi di autenticazione (e.g. Auth0?)(2)
+-> Che dati vi servono in aggiunta a quelli di TEDx?(3)
+
+->(1) abbiamo ridefinito meglio il target e aggiunto qualche frame di interfaccia grafica con figma.
+->(2) la community viene gestita con i servizi di chat, collegamenti e condivisione video tra utenti collegati tra loro e loggati con il servizio Amazon Cognito. Abbiamo fatto un approfondimento sul servizio Amazon Cognito e in particolare abbiamo posto un focus sul differenziare utente autenticato e utente che accede senza autenticazione.
+->(3) non credo servano dati in più di quelli che già abbiamo.
