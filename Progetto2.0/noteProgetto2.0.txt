@@ -1,6 +1,6 @@
-aggiornamenti della parte 1:
+aggiornamenti della parte 1/review nella parte 2.0:
 
--> Si è deciso di concentrare il progetto su Tedx scienza e tecnologie e quindi escludendo, quindi, gli argomenti di cultura generale
+-> Si è deciso di concentrare il progetto su Tedx scienza e tecnologie escludendo, quindi, gli argomenti di cultura generale
 
 -> aggiunta dei watch next ( related_videos ) 
  
