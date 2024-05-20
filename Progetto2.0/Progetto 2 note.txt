@@ -1,3 +1,0 @@
-Progetto 2 note:
--> aggiungere i watch next 
--> estrapolare dai dati che abbiamo ad esempio l'argomento del ted e metterlo come dettaglio in mongo
