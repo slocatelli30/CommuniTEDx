@@ -1,0 +1,7 @@
+aggiornamenti della parte 1:
+
+-> Si è deciso di concentrare il progetto su Tedx scienza e tecnologie e quindi escludendo, quindi, gli argomenti di cultura generale
+
+-> aggiunta dei watch next ( related_videos ) 
+ 
+-> filtraggio dei dati in base ai tag
