@@ -127,8 +127,7 @@ tedx_dataset_agg.printSchema()
 
 
 #   FILTER TAG FROM THE DATASET
-tedx_dataset_agg = tedx_dataset_agg.filter(array_contains(tedx_dataset_agg.tags,'science'))
-tedx_dataset_agg = tedx_dataset_agg.filter(array_contains(tedx_dataset_agg.tags,'technology'))
+tedx_dataset_agg = tedx_dataset_agg.filter(array_contains(col("tags"),"technology") | array_contains(col("tags"),"science"))
 
 tedx_dataset_agg.printSchema()
 
